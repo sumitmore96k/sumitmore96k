@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @sumitmore96k
+- 👀 I’m Data Science Enthusiast ...
+- 🌱 I’m currently learning Computer And Data Science ...
+- 📫 How to reach me Email: Sumitmore1389@gmail.com...
+
+<!---
+sumitmore96k/sumitmore96k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
